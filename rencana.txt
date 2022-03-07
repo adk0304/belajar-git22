@@ -1,6 +1,7 @@
 Rencana recall materi GIT
 - Github --> create account, repo, new files, commit
 - insight akan berubah dari 2 branch menjadi 1 branch dengan fitur merge
-- fitur 2 ditambahkan
-- sukses menambahkan fitur 2 
+- menambahkan branch baru yakni fitur1 untuk uji coba
+-uji coba 1 sukses
+
 lihat insights --> network --> akan muncul visualisasi branch yang baru
