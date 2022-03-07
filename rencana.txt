@@ -1,0 +1,2 @@
+Rencana recall materi GIT
+- Github --> create account, repo, new files, commit
