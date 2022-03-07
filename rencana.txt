@@ -1,0 +1,3 @@
+Rencana recall materi GIT
+- Github --> create account, repo, new files, commit
+lihat insights --> network --> akan muncul visualisasi branch yang baru
